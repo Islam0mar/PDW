@@ -1,5 +1,9 @@
 # PDW
-2D Passive Dynamic Walker Simulation without knees in Julia
+2D Passive Dynamic Walker Simulation without knees in Julia.
+
+## Not Completed
+
+# Model
 ![Model used](https://github.com/Islam0mar/PDW/blob/master/1.png)
 ![Model used](https://github.com/Islam0mar/PDW/blob/master/2.jpg)
 ![Model used](https://github.com/Islam0mar/PDW/blob/master/3.png)
